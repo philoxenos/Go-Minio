@@ -1,4 +1,4 @@
-# Go MinIO API Tester
+# Go MinIO API Documentation
 
 A simple Go API designed to test and interact with a MinIO object storage server. This API provides basic CRUD (Create, Read, Update, Delete) operations, file listing, and real-time bucket monitoring, all accessible via a standard HTTP interface.
 
